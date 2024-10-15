@@ -1,0 +1,352 @@
+/* Nav Start */
+.fly-buy-logo {
+  height: 56px;
+  width: 163px;
+}
+
+.fly-buy-nav {
+  font-family: "Times New Roman", Times, serif;
+}
+
+/* Nav End  */
+
+/* Services Start */
+.services-section-heading {
+  color: #183b56;
+  font-size: 36px;
+  font-weight: 700;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.services-section-description {
+  color: #616c7c;
+  font-size: 18px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.services-card-image {
+  width: 80px;
+}
+
+.services-card-title {
+  color: #1f2933;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.services-card-description {
+  color: #7b8794;
+  font-size: 14px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+/* Services End */
+
+/* Products Start */
+
+.products-section-heading {
+  color: #183b56;
+  font-size: 32px;
+  font-weight: 700;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.products-card {
+  height: 328px;
+  padding: 20px;
+  border-radius: 16px;
+}
+
+.headphones-bg-container {
+  background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png);
+  background-size: cover;
+}
+
+.laptops-bg-container {
+  background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png);
+  background-size: cover;
+}
+
+.products-card-title {
+  font-size: 36px;
+  font-family: "Times New Roman", Times, serif;
+  color: #ffffff;
+  font-weight: bold;
+}
+
+.products-card-description {
+  font-size: 16px;
+  font-family: "Times New Roman", Times, serif;
+  color: #ffffff;
+}
+
+.products-card-button {
+  color: #ff9f00;
+  background-color: #ffffff;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 16px;
+  height: 48px;
+  width: 134px;
+  border-width: 0px;
+  border-radius: 100px;
+}
+
+.products-card-modal-title {
+  color: #323f4b;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.products-card-modal-description {
+  color: #323f4b;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 16px;
+}
+
+.products-card-modal-list {
+  list-style-type: none;
+  padding: 0px;
+}
+
+.products-card-modal-list-item {
+  color: #323f4b;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 16px;
+}
+
+.products-card-modal-list-item-category {
+  font-weight: bold;
+}
+
+.products-section-link {
+  color: #ff9f00;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.modal-button {
+  font-family: "Times New Roman", Times, serif;
+}
+
+/* Products End */
+
+/* Offers Start */
+
+.offers-bg-container {
+  background-image: linear-gradient(to right, #f49541, #dd5d97);
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.offers-section-heading {
+  color: #ad2167;
+  font-size: 28px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.offers-section-description {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.offer-in-percent {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.offers-section-discount-image {
+  width: 250px;
+  margin: 10px;
+}
+
+/* Offers End */
+
+/* blog start */
+
+.blog-section-heading {
+  color: #183b56;
+  font-size: 36px;
+  font-weight: 700;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.blog-card-sub-title {
+  color: #959ead;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.blog-card-title {
+  color: #183b56;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.blog-card-description {
+  color: #959ead;
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.blog-card-link {
+  color: #ff9f00;
+  font-size: 14px;
+  font-weight: 700;
+  font-family: "Times New Roman", Times, serif;
+}
+
+/* blog End */
+
+/* Explore Deals & Offers Start */
+
+.explore-section {
+  background-color: #f5f7fa;
+}
+
+.explore-section-heading {
+  color: #183b56;
+  font-size: 36px;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.explore-card {
+  background-color: #ffffff;
+  border-radius: 8px;
+}
+
+.explore-card-image-container {
+  padding: 10px;
+}
+
+.explore-card-image {
+  width: 100%;
+  border-radius: 20px;
+}
+
+.explore-card-title {
+  color: #183b56;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.explore-card-product-title {
+  color: #1f2933;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+.explore-card-link {
+  color: #ff9f00;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+/* Explore Deals & Offers End */
+
+/* Contact Us Start */
+.contact-us-section {
+  background-color: #ffffff;
+}
+
+.contact-us-section-heading {
+  color: #183b56;
+  font-size: 32px;
+  font-weight: bold;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.contact-us-button {
+  color: #ff9f00;
+  background-color: transparent;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 18px;
+  font-weight: 500;
+  height: 43px;
+  width: 140px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #ff9f00;
+}
+
+/* Contact Us End */
+
+/* Footer Start */
+
+.footer-section {
+  background-color: #0d2436;
+}
+
+.footer-logo {
+  height: 56px;
+  width: 163px;
+}
+
+.footer-section-icon-container {
+  height: 40px;
+  width: 40px;
+  border-radius: 40px;
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-bottom: 30px;
+  padding-right: 30px;
+  background-color: #152c3e;
+  margin-right: 8px;
+  margin-bottom: 8px;
+}
+
+.footer-icon{
+color: #5a7184;
+font-size: 18px;
+}
+
+.footer-section-address {
+  color: #959ead;
+  font-size: 16px;
+  font-weight: 400;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.footer-section-heading {
+  color: #5a7184;
+  font-size: 18px;
+  font-weight: 700;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.footer-section-list {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.footer-section-list-item {
+  color: #5a7184;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 5px;
+}
+
+.hr-line{
+  background-color: #5a7184;
+}
+
+.footer-section-copyright{
+color: #959ead;
+font-family: "Times New Roman", Times, serif;
+font-size: 16px;
+font-weight: 400;
+margin-bottom: 5px;
+}
+
+
+/* Footer End */
